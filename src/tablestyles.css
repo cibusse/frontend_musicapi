@@ -1,0 +1,75 @@
+/* Table container */
+.music-table-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  /* Table styling */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Header styling */
+  th {
+    background-color: rgb(14, 131, 209);
+    color: white;
+    font-weight: bold;
+  }
+  
+  /* Row hover effect */
+  tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  /* Alternate row coloring */
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+  
+  /* Code column */
+  th.code, td.code {
+    width: 10%;
+  }
+  
+  /* Song Title column */
+  th.song-title, td.song-title {
+    width: 30%;
+  }
+  
+  /* Artist column */
+  th.artist, td.artist {
+    width: 20%;
+  }
+  
+  /* Album column */
+  th.album, td.album {
+    width: 20%;
+  }
+  
+  /* Genre column */
+  th.genre, td.genre {
+    width: 10%;
+  }
+  
+  /* Year column */
+  th.year, td.year {
+    width: 10%;
+  }
+  

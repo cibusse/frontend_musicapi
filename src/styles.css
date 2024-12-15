@@ -1,0 +1,49 @@
+
+body {
+  margin: 5%;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+input[type="text"] {
+  width: 30%;
+}
+
+input[type="number"] {
+  width: 30%;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+}
+
+.search-bar input {
+  padding: 8px;
+  font-size: 16px;
+  margin-right: 10px;
+  width: 200px;
+}
+
+.search-btn, .search-all-btn, .delete-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  border-style: none;
+  background-color: rgb(14, 131, 209);
+  border: white, 5px, solid;
+  color: rgb(238, 241, 243);
+}
+
+
+.insert-btn, .update-btn{
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  border-style: none;
+  border: white, 5px, solid;
+  color: rgb(238, 241, 243);
+  background-color: rgb(95, 96, 97);
+}
+

@@ -1,0 +1,80 @@
+[{
+  "code":1,
+  "song_title": "Bohemian Rhapsody",
+  "artist": "Queen",
+  "album": "A Night at the Opera",
+  "genre": "Rock",
+  "year": 1975
+},
+{
+  "code":2,
+  "song_title": "Hey Jude",
+  "artist": "The Beatles",
+  "album": "Hey Jude",
+  "genre": "Rock",
+  "year": 1968
+},
+{
+  "code":3,
+  "song_title": "Imagine",
+  "artist": "John Lennon",
+  "album": "Imagine",
+  "genre": "Rock",
+  "year": 1971
+},
+{
+  "code":4,
+  "song_title": "Sweet Child O' Mine",
+  "artist": "Guns N' Roses",
+  "album": "Appetite for Destruction",
+  "genre": "Hard Rock",
+  "year": 1987
+},
+{
+  "code":5,
+  "song_title": "Billie Jean",
+  "artist": "Michael Jackson",
+  "album": "Thriller",
+  "genre": "Pop",
+  "year": 1982
+},
+{
+  "code":6,
+  "song_title": "Hotel California",
+  "artist": "Eagles",
+  "album": "Hotel California",
+  "genre": "Rock",
+  "year": 1977
+},
+{
+  "code":7,
+  "song_title": "Wonderwall",
+  "artist": "Oasis",
+  "album": "(What's the Story) Morning Glory?",
+  "genre": "Rock",
+  "year": 1995
+},
+{
+  "code":8,
+  "song_title": "Smells Like Teen Spirit",
+  "artist": "Nirvana",
+  "album": "Nevermind",
+  "genre": "Grunge",
+  "year": 1991
+},
+{
+  "code":9,
+  "song_title": "Lose Yourself",
+  "artist": "Eminem",
+  "album": "8 Mile",
+  "genre": "Hip Hop",
+  "year": 2002
+},
+{
+  "code":10,
+  "song_title": "Rolling in the Deep",
+  "artist": "Adele",
+  "album": "21",
+  "genre": "Pop",
+  "year": 2011
+}]
